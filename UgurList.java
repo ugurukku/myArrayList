@@ -1,6 +1,3 @@
-package com.example.webshamaki.fikir;
-
-
 public class UgurList<E> {
     private Object[] obj = new Object[1];
 
